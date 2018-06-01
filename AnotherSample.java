@@ -10,7 +10,11 @@ public class AnotherSample
     public static void main(String[] args)
     {
         // TODO Auto-generated method stub
+
+		//feature1 commit
+
 		//develop commit
+
 
     }
 
